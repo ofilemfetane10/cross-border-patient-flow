@@ -1,4 +1,4 @@
-# 🫁 Long COVID Burden Dashboard
+# Long COVID Burden Dashboard
 
 **Prevalence, symptom burden, economic impact, and health system response capacity — the chronic disease emergency hiding in plain sight.**
 
